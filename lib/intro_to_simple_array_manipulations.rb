@@ -20,4 +20,4 @@ end
 
 def shift_with_args(array, number)
   array.shift(number)
-end  
+end
